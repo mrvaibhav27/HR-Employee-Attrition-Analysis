@@ -39,7 +39,6 @@ Developed an interactive Power BI dashboard to visualize:
 ## 📁 Project Files
 - Python notebooks
 - Power BI dashboard (.pbix)
-- Cleaned dataset
 
 ## 👤 Author
 Vaibhav Kale
